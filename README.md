@@ -1,12 +1,6 @@
 linux-steam-integration
 -----------------------
 
-### Notice
-
-Awaiting laptop with actual GPU. Order in place. Stay tuned.
-
- - ikey
-
 Linux Steam* Integration is a helper system to make the Steam Client and Steam
 games run better on Linux. In a nutshell, LSI automatically applies various workarounds
 to get games working, and fixes long standing bugs in both games and the client.
