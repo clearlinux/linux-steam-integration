@@ -87,6 +87,7 @@ static const char *steam_allowed[] = {
         "panorama",
         "libpangoft2-1.0.so",
         "libpango-1.0.so",
+        "libpangocairo-1.0.so",
 
         /* steamwebhelper */
         "libcef.so",
