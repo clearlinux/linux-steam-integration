@@ -324,7 +324,7 @@ static const char *vendor_transmute_target[] = {
         "libcurl-gnutls.so.4",
         "libcurl.so.4",
 
-        "libbz2.so.1.0.6",
+        "libbz2.so.1",
 
         "libudev.so.1",
 };
